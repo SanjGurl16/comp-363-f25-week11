@@ -1,4 +1,4 @@
-# Week 10: Kahn v. the Stack!
+# Week 11: Efficient string segmentation
 
 The assignment can be found in the Jupyter notebook named [assignment.ipynb](./assignment.ipynb).
 
